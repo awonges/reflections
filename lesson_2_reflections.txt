@@ -7,3 +7,10 @@ staging area is pre-commit place. To be able to decide which changes to commit.
 How can you use the staging area to make sure you have one commit per logical change?
 Only add the changes you want to commit by using git add. 
 You can double check the change you want to commit by using git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- Experimental features
+	- Changes not related to related to the main goal. 
+	By creating branch you will be able to make modifications without having to worry to break the main program.
+
+
